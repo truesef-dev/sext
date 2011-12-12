@@ -30,7 +30,7 @@
 %%% @end
 {application, sext,
     [{description, "Sortable serialization library"},
-        {vsn, git},
+        {vsn, "0.4"},
         {modules, []},
         {registered, []},
         {applications, [kernel, stdlib]},
